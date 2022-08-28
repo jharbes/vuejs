@@ -1,3 +1,5 @@
+<img src="icon-vue.png" align="right" width="150">
+
 # vuejs
 
 Curso de Vue.js, um framework progressivo de JavaScript com código aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
